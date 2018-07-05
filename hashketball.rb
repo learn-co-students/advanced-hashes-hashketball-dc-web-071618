@@ -204,3 +204,17 @@ this_player = nil
     end
   rebounds
 end
+
+# def most_points_scored
+# this_points = 0
+# this_player = nil
+#   game_hash.map do |home_away, team_colors_players|
+#     team_colors_players[:players].map do |general, specific|
+#       if this_points < specific[:points]
+#         this_points = specific[:points]
+#         this_player = general
+#       end
+#     end
+#   this_player
+# end
+# end
